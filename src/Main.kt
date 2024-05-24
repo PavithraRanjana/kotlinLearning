@@ -7,5 +7,7 @@ fun main() {
     println("emergency-fix is done")
     println("learning branches in git")
     println("merge conflict")
+
+    val vehicle1: Vehicle = Vehicle("Honda", 2019)
 }
 
