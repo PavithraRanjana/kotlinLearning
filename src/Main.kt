@@ -5,6 +5,7 @@ fun main() {
     println("learning git")
     println("trying out git commit")
     println("learning branches in git")
+    println("merge conflict")
 
 }
 
