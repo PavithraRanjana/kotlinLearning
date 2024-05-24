@@ -8,6 +8,9 @@ fun main() {
     println("learning branches in git")
     println("merge conflict")
 
+
     val vehicle1: Vehicle = Vehicle("Honda", 2019)
+    val animal1 = Animal("Dog", 99,"German Shepherd")
+
 }
 
