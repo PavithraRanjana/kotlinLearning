@@ -7,5 +7,8 @@ fun main() {
     println("emergency-fix is done")
     println("learning branches in git")
     println("merge conflict")
+
+    val animal1 = Animal("Dog", 99,"German Shepherd")
+
 }
 
