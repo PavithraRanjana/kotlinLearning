@@ -10,7 +10,12 @@ fun main() {
 
 
     val vehicle1: Vehicle = Vehicle("Honda", 2019)
+    val vehicle2 = Vehicle("Toyota", 2024)
+
     val animal1 = Animal("Dog", 99,"German Shepherd")
+    val animal2 = Animal("Dinosaur", 50, "Pterodactyl")
+
+
 
 }
 
