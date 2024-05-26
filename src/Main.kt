@@ -15,7 +15,11 @@ fun main() {
     val animal1 = Animal("Dog", 99,"German Shepherd")
     val animal2 = Animal("Dinosaur", 50, "Pterodactyl")
 
+    println("next time create a person class")
+
 
 
 }
+
+
 
